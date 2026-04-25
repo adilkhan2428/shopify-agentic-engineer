@@ -21,7 +21,7 @@ I build automation systems that solve real e-commerce problems:
 ### 01 — Order Processor
 Automated order processing pipeline with fraud detection,
 tax calculation, and shipping rules.
-
+[View Project](./01-order-processing/)
 **Stack:** Python  
 **Solves:** Manual order processing, missed fraud, wrong shipping costs  
 
