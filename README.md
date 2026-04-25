@@ -26,6 +26,7 @@ tax calculation, and shipping rules.
 **Solves:** Manual order processing, missed fraud, wrong shipping costs  
 
 
+
 ---
 
 ### 02 — Coming Soon
@@ -53,4 +54,4 @@ Multi-Platform Inventory Sync
 ## Contact
 
 Open to freelance projects and collaborations.  
-Find me on [LinkedIn](your-linkedin-url-here)
+Find me on [LinkedIn](www.linkedin.com/in/adil-khan-265a08405)
