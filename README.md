@@ -36,7 +36,6 @@ Shopify Plus merchants doing $500K–$5M/year who are:
 |------|-------------|
 | `day07_order_processor.py` | Processes a list of orders — applies discount rules, classifies risk, prints summary |
 | `day11_robust_order_parser.py` | Parses raw Shopify orders safely — never crashes on missing fields or bad data |
-| `day11_safe_get.py` | Utility function — safely reads any dictionary key without crashing |
 
 ---
 
